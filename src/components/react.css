@@ -1,0 +1,34 @@
+.navbar
+{
+    background-color: aqua;
+}
+ul
+{
+    margin-left:502px;
+}
+
+ul li
+{
+    list-style-type: none;
+    display:inline;
+    font-size:50px;
+    font-weight:bold;
+    
+    
+}
+ul li .btn btn-danger
+{
+    margin-left: 193px;
+    border-radius: 10px;
+}
+.user
+{
+    margin-right: 38px;
+    border-radius: 50px;
+}
+.forms
+{
+margin: auto;
+width: 500px;
+height: 500px
+}
